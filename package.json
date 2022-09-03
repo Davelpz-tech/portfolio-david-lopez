@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-david-lopez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davelpz-tech/portfolio-david-lopez.git"
+  },
+  "author": "David Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davelpz-tech/portfolio-david-lopez/issues"
+  },
+  "homepage": "https://github.com/Davelpz-tech/portfolio-david-lopez#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
